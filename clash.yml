@@ -118,6 +118,6 @@ dns:
       - +.googleapis.cn
       - +.googleapis.com
       - +.gvt1.com
-proxies:~
-proxy-groups:~
-rules:~
+proxies: ~
+proxy-groups: ~
+rules: ~
